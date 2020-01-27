@@ -1,0 +1,20 @@
+.h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+#pageTitle {
+    background-color: darkslategray;
+}
+
+.columnHeight {
+    height: 600px;
+}
+
+#cityWeather {
+    height: 300px;
+    border: darkslategray;
+    border-width: 2px;
+    border-radius: 3px;
+}
