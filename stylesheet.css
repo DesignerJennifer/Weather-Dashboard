@@ -12,9 +12,9 @@
     height: 600px;
 }
 
-#cityWeather {
-    height: 300px;
-    border: darkslategray;
+#currentWeater-div {
+    height: auto;
+    border-color: darkslategray;
     border-width: 2px;
     border-radius: 3px;
 }
